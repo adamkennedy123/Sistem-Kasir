@@ -105,7 +105,7 @@ npm install
 
 ---
 
-## 3. Login Account
+## 5. Login Account
 
 Gunakan akun berikut untuk melakukan pengujian aplikasi.
 
