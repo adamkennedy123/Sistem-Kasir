@@ -47,7 +47,6 @@ Admin memiliki akses untuk:
 Kasir memiliki akses untuk:
 
 - Dashboard
-- Membuat transaksi
 - Melihat transaksi
 - Mengelola proses transaksi sesuai hak akses
 
