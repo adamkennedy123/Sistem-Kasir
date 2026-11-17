@@ -103,3 +103,29 @@ Jika project menggunakan dependency frontend, jalankan:
 npm install
 ```
 
+---
+
+## 3. Login Account
+
+Gunakan akun berikut untuk melakukan pengujian aplikasi.
+
+### Admin
+
+```text
+Username : admin
+Password : admin
+Role     : Admin
+```
+
+### Kasir
+
+```text
+Username : kasir
+Password : kasir
+Role     : Kasir
+```
+
+> Catatan:
+> Sesuaikan username dan password di atas dengan akun yang tersedia pada database atau akun hasil seeder.
+
+---
